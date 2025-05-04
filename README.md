@@ -64,8 +64,15 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 
 ---
+<!-- SPOTIFY NOW PLAYING -->
+
+## <picture><img src="https://img.icons8.com/ios-filled/50/ffffff/spotify.png" width="24"/></picture> · NOW_PLAYING
+
+> **Terminal Feed:**
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=30px></picture> · SYSTEM METRICS
+
+
 
 <table align="left">
 <tr border="none">
@@ -89,15 +96,6 @@
 
 ---
 
-<!--profile visit count-->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <br>
-  <div style="border: 1px solid #333; padding: 8px; display: inline-block; background-color: #000;">
-    <code>VISITOR_COUNT: </code>
-    <a href="#"><img src="https://visitcount.itsvg.in/api?id=Semoca001&label=·TERMINAL_ACCESS·&color=0&icon=5&pretty=false" /></a>
-  </div>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
