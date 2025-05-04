@@ -14,7 +14,7 @@
 
 ## <picture><img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width = 30px></picture> · TERMINAL > _
 
-<picture> <img align="right" src="https://media.giphy.com/media/3o7qE6YreP5F7nEAE0/giphy.gif" width = 300px></picture>
+
 
 ```
 > SYSTEM ONLINE
@@ -27,7 +27,7 @@
 - :electric_plug: Creador de [DEVMINDS](https://devminds-sooty.vercel.app)
 - :floppy_disk: **Actualmente trabajando en** `Desarrollo Frontend` y `Diseño UI/UX`
 - :pager: Contacto: [![Email](https://img.shields.io/badge/email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
-- :city_sunset: Filosofía: `"El futuro es ahora, solo que distribuido de manera desigual"`
+
 
 <br>
 
