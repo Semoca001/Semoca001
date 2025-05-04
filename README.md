@@ -23,7 +23,7 @@
 > ACCESS GRANTED
 ```
 
-- :satellite: Desarrollador web enfocado en experiencias digitales retrofuturistas
+- :satellite: Desarrollador web
 - :electric_plug: Creador de [DEVMINDS](https://devminds-sooty.vercel.app)
 - :floppy_disk: **Actualmente trabajando en** `Desarrollo Frontend` y `Diseño UI/UX`
 - :pager: Contacto: [![Email](https://img.shields.io/badge/email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
