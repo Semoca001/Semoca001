@@ -64,11 +64,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 
 ---
-<!-- SPOTIFY NOW PLAYING -->
 
-## <picture><img src="https://img.icons8.com/ios-filled/50/ffffff/spotify.png" width="24"/></picture> · NOW_PLAYING
-> **Terminal Feed:**
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/sebasmorea2003)
 
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=30px></picture> · SYSTEM METRICS
